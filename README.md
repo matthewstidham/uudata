@@ -1,4 +1,4 @@
-# UUdevs 
+# UUDevs 
 What is UU Devs? We are Uniatrian Universalist Developers who create projects for and about the UU community. Join Us! 
 
 # UUData: Mapping where UU churches are in time and space. 
