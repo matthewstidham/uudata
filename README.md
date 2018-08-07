@@ -5,7 +5,7 @@ What is UU Devs? We are Uniatrian Universalist Developers who create projects fo
 
 First project of UU developers. This project involes using UUA provided data to create maps of the various locations of UU churches. 
 
-# Have a new idea? 
+# Have a New Idea? 
 
 Add it as an issue! and we will discuss it in the gitter chat! 
 
