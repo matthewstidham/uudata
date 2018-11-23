@@ -12,4 +12,5 @@ Add it as an issue! and we will discuss it in the gitter chat!
 # Want to join UU Devs? 
 
 Look us up on gitter! UU developers gitter.im/UU-developers/Lobby 
+Or contact us at uudataproject@gmail.com
 
